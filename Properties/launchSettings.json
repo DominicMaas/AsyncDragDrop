@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AsyncDragDrop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AsyncDragDrop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
